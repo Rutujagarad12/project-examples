@@ -6,7 +6,7 @@ public class Book
 	String image;
 	double total;
 	
-	// book id and total
+
 	public String getImage() {
 		return image;
 		
